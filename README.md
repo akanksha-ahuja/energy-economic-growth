@@ -1,2 +1,3 @@
-# energy-economic-growth
+# Energy-Economic-Growth
+
 Sustainable Energy for all 
